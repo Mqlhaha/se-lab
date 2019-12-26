@@ -1,2 +1,2 @@
-a=1
-edit by a1
+a=2
+edit by a1,not the master
